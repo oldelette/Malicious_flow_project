@@ -1,0 +1,26 @@
+# TRAINING ONLY WITH JOY FEATURES
+python 10_train_new_lightgbm_only_joy.py
+python 11_train_new_rf_only_joy.py
+python 12_train_new_decicsion_tree_only_joy.py 
+python 13_train_new_knn_only_joy.py
+python 14_train_new_catboost_only_joy.py
+python 15_train_new_xgboost_only_joy.py
+python 16_train_new_svm_only_joy.py
+
+# TRAINING ONLY WITH HANDCRAFT FEATURES
+python 20_train_new_lightgbm_only_handcraft.py
+python 21_train_new_rf_only_handcraft.py
+python 22_train_new_decicsion_tree_only_handcraft.py
+python 23_train_new_knn_only_handcraft.py
+python 24_train_new_catboost_only_handcraft.py
+python 25_train_new_xgboost_only_handcraft.py
+python 26_train_new_svm_only_handcraft.py
+
+# TRAINING WITH JOY AND HANDCRAFT FEATURES
+python 30_train_new_lightgbm_mixed.py
+python 31_train_new_rf_mixed.py
+python 32_train_new_decicsion_tree_mixed.py
+python 33_train_new_knn_mixed.py
+python 34_train_new_catboost_mixed.py 
+python 35_train_new_xgboost_mixed.py
+python 36_train_new_svm_mixed.py
